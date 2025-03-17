@@ -55,7 +55,8 @@ On this query I'm looking at the remote jobs. Changing the line `job_work_from_h
 - **Diverse Employers:** Companies like SmartAsset (finances), Meta (technology), and AT&T (telecommunications) are among those offering high salaries, showing a broad interest across different industries.
 - **Job Titles Variety:** Most of these high paying jobs are important positions like Director of Analytics and Principal Data Analyst, but still has the base position of a Data Analyst among them, indicating a good variety of roles and specializations within data analytics.
 
-![top_paying_remote](assets\top_paying_jobs_remote.png)
+
+![top_paying_remote](assets/top_paying_jobs_remote.png)
 
 ### Brazil Jobs
 
@@ -63,7 +64,7 @@ On this query I'm looking at the remote jobs. Changing the line `job_work_from_h
 - **Diverse Employers:** The company diversity stays the same, we have companies like CI$T (information technology), Gympass (fitness aggregator) and Nubank, keeping up the interest across different industries trend.
 - **Job Titles Variety** For the top Brazil jobs we have most of them being normal Data Analyst positions and some of them being mid-level, which indicates a lower variety compared to the remote jobs.
 
-![top_paying_brazil](assets\top_paying_jobs_brazil.png)
+![top_paying_brazil](assets/top_paying_jobs_brazil.png)
 
 ## 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -100,11 +101,11 @@ Running this query for both remote jobs and Brazil jobs we get the following:
 
 ### Remote Jobs
 
-![Top Job Skills Remote](assets\top_paying_jobs_skills_remote.png)
+![Top Job Skills Remote](assets/top_paying_jobs_skills_remote.png)
 
 ### Brazil Jobs
 
-![Top Job Skills Brazil](assets\top_paying_jobs_skills_brazil.png)
+![Top Job Skills Brazil](assets/top_paying_jobs_skills_brazil.png)
 
 For both we have **SQL**, **Python** and **Tableau** dominating the top 3 skills which is the bear bones of data analysis. Meanwhile, on the remote jobs we have skills like **Snowflake**, **Pandas** and **Excel** which indicates a demand on data manipulation and cloud data storage, and on the Brazil jobs we have a bigger attention on business intelligence and statistical analysis with skills like **Power BI**, **Looker** and **SAS**.
 
