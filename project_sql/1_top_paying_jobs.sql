@@ -1,4 +1,4 @@
--- Top 7 remote jobs around the world
+-- Top 10 remote jobs around the world
 SELECT
     job_id,
     job_title,
@@ -14,7 +14,7 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10
 
--- Top 7 jobs on Brazil
+-- Top 10 jobs on Brazil
 SELECT
     job_id,
     job_title,
